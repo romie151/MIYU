@@ -18,7 +18,7 @@ internal final class LoginViewController: BaseViewController {
     private weak var viewModel: LoginViewModel! {
         return LoginViewModel(presentingVC: self)
     }
-    
+    // THIS CODE IS AWESOMEEEE
     @IBOutlet weak var emailTextField: CustomTextField!
     @IBOutlet weak var passwordTextField: CustomTextField!
     
